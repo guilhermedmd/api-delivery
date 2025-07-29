@@ -65,7 +65,7 @@ erDiagram
     }
 
     PEDIDO {
-        int codigo_do_produto
+        int codProduto
         float valor
         string descricao
         int id_restaurante
