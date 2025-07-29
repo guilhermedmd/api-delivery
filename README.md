@@ -1,4 +1,4 @@
-## Api-delivery
+## api-delivery
 
 A simple API made with Java, the framework Spring Boot and Maven based in the Ifood business model.
 The main dependences used in this project are:
