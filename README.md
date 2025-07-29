@@ -1,6 +1,6 @@
 ## Api-delivery
 
-A simple API made with Java and the framework Spring Boot based in the Ifood business model.
+A simple API made with Java, the framework Spring Boot and Maven based in the Ifood business model.
 The main dependences used in this project are:
 - Spring Web
 - H2 database
