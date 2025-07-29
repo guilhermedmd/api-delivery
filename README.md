@@ -20,7 +20,7 @@ All entity have the features:
 - GET by id
 - DELETE
 
-## How to use with Swagger?
+## How to use the interfaces for tests?
 To acess the database interface use this adress:
 ```bash
 http://localhost:8080/h2-console
