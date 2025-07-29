@@ -21,13 +21,13 @@ All entity have the features:
 - DELETE
 
 ## How to use the interfaces for tests?
-To acess the database interface use this adress:
+To acess the database interface use this address:
 ```bash
 http://localhost:8080/h2-console
 ````
 <br>
 
-To acess the endpoints you can use the adress:
+To acess the endpoints you can use the address:
 ```bash
 http://localhost:8080/swagger-ui/index.html#/
 ```
